@@ -1,3 +1,3 @@
 # Color-Game
 
-Game that tests players ability to associate a color to its RGB value.
+Game that tests a players ability to associate a color to its RGB value.
